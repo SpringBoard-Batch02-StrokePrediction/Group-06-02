@@ -1,2 +1,2 @@
-# Group-06-02
+# Group-06(2)
 Stroke Prediction
